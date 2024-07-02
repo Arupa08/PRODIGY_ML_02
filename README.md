@@ -1,2 +1,2 @@
-This code demonstrates how to perform customer segmentation using K-means clustering based on purchase history data. The steps include data preparation, preprocessing (normalization), choosing the optimal number of clusters using the Elbow Method and applying K-means clustering.
+This code demonstrates how to perform customer segmentation using K-means clustering based on purchase history data. The steps include data preparation, preprocessing , choosing the optimal number of clusters using the Elbow Method and applying K-means clustering.
 It provides a comprehensive approach to customer segmentation using machine learning, specifically K-means clustering, with detailed steps and visualizations to aid in understanding the customer groups.
